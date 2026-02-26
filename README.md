@@ -28,3 +28,16 @@ ADGTrace/
 ├── zc          # Aggregates trajectories across different grids
 ├── README.md   # Project description document
 └── LICENSE     # License
+
+
+## 🛠️ Set Up
+git clone https://github.com/zec20001/ADGTrace.git
+cd ADGTrace
+
+# 创建虚拟环境（可选）
+python -m venv venv
+# Windows
+venv\Scripts\activate
+# macOS / Linux
+source venv/bin/activate
+

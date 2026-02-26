@@ -6,11 +6,11 @@ User trajectory publication has promoted various location-based applications lik
 [![GitHub forks](https://img.shields.io/github/forks/zec20001/ADGTrace?style=social)](https://github.com/zec20001/ADGTrace/network)
 [![GitHub issues](https://img.shields.io/github/issues/zec20001/ADGTrace)](https://github.com/zec20001/ADGTrace/issues)
 
-> **ADGTrace** 是一个用于 **自适应轨迹合成（adaptive trajectory synthesis）** 的人工智能开源项目。通过生成数据，该模型无需额外噪声的情况下维护高适应性，同时实现隐私保护。
+> **ADGTrace** is an open-source AI project for  **adaptive trajectory synthesis**. By generating data, the model maintains high adaptability without introducing additional noise, while also ensuring privacy protection.
 
 ---
 
-## 🚀 主要功能
+## 🚀 Key Features
 
 - 📌 **Adaptive Trajectory Synthesis**：Automatically generates high-quality trajectories based on input data.
 - 🔒 **Privacy Preservation**：Maintains model performance without introducing additional noise.
@@ -19,7 +19,7 @@ User trajectory publication has promoted various location-based applications lik
 
 ---
 
-## 📁 项目结构
+## 📁 Project Structure
 
 ```text
 ADGTrace/

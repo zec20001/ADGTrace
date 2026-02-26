@@ -30,17 +30,13 @@ ADGTrace/
 └── LICENSE     # License
 ```
 ---
-## 🛠️ Set Up
-# Clone the repository
+## 🛠️ Installation
 git clone https://github.com/zec20001/ADGTrace.git
 cd ADGTrace
-
-# Create a virtual environment (optional)
 python -m venv venv
-
-# Activate the virtual environment
 # Windows
 venv\Scripts\activate
 # macOS / Linux
 source venv/bin/activate
+pip install -r requirements.txt
 

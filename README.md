@@ -28,8 +28,8 @@ ADGTrace/
 ├── zc          # Aggregates trajectories across different grids
 ├── README.md   # Project description document
 └── LICENSE     # License
-
 ---
+## 🛠️ Set Up
 # Clone the repository
 git clone https://github.com/zec20001/ADGTrace.git
 cd ADGTrace

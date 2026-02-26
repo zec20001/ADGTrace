@@ -29,7 +29,7 @@ ADGTrace/
 ├── README.md   # Project description document
 └── LICENSE     # License
 
-
+---
 ## 🛠️ Set Up
 git clone https://github.com/zec20001/ADGTrace.git
 cd ADGTrace

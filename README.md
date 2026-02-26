@@ -30,12 +30,14 @@ ADGTrace/
 └── LICENSE     # License
 
 ---
-## 🛠️ Set Up
+# Clone the repository
 git clone https://github.com/zec20001/ADGTrace.git
 cd ADGTrace
 
-# 创建虚拟环境（可选）
+# Create a virtual environment (optional)
 python -m venv venv
+
+# Activate the virtual environment
 # Windows
 venv\Scripts\activate
 # macOS / Linux

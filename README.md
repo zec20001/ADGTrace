@@ -12,10 +12,10 @@ User trajectory publication has promoted various location-based applications lik
 
 ## 🚀 主要功能
 
--📌 Adaptive Trajectory Synthesis: Automatically generates high-quality trajectories based on input data.
--🔒 Privacy Preservation: Maintains model performance without introducing additional noise.
--⚙️ Extensible Architecture: Suitable for research and engineering scenarios for further development.
--🧠 Trainable Modules: Supports model training and evaluation.
+- 📌 **Adaptive Trajectory Synthesis**：Automatically generates high-quality trajectories based on input data.
+- 🔒 **Privacy Preservation**：Maintains model performance without introducing additional noise.
+- ⚙️ **Extensible Architecture**：Suitable for research and engineering scenarios for further development.
+- 🧠 **Trainable Modules**：Supports model training and evaluation.
 
 ---
 

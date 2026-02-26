@@ -31,6 +31,7 @@ ADGTrace/
 ```
 ---
 ## 🛠️ Installation
+```text
 git clone https://github.com/zec20001/ADGTrace.git
 cd ADGTrace
 python -m venv venv
@@ -38,5 +39,5 @@ python -m venv venv
 venv\Scripts\activate
 # macOS / Linux
 source venv/bin/activate
-pip install -r requirements.txt
+```
 

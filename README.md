@@ -12,10 +12,10 @@ User trajectory publication has promoted various location-based applications lik
 
 ## 🚀 主要功能
 
-- 📌 **自适应轨迹合成**：根据输入数据自动生成高质量轨迹。
-- 🔒 **隐私保护**：无需引入额外噪声，在保证隐私的前提下保持模型性能。
-- ⚙️ **易扩展架构**：适合科研和工程场景进行二次开发。
-- 🧠 **可训练模块**：支持模型训练与测试评估。
+-📌 Adaptive Trajectory Synthesis: Automatically generates high-quality trajectories based on input data.
+-🔒 Privacy Preservation: Maintains model performance without introducing additional noise.
+-⚙️ Extensible Architecture: Suitable for research and engineering scenarios for further development.
+-🧠 Trainable Modules: Supports model training and evaluation.
 
 ---
 
@@ -23,10 +23,8 @@ User trajectory publication has promoted various location-based applications lik
 
 ```text
 ADGTrace/
-├── your_module/          # 核心代码模块
-├── notebooks/            # 示例与实验 notebook
-├── data/                 # 示例数据
-├── requirements.txt      # 依赖列表
-├── main.py               # 运行入口
-├── README.md             # 项目说明文档
-└── LICENSE               # 许可证
+├── za          # Generates multiple pseudo-trajectories based on user trajectories
+├── zb          # Uses FCNN model for training and prediction, selecting the most effective pseudo-trajectories
+├── zc          # Aggregates trajectories across different grids
+├── README.md   # Project description document
+└── LICENSE     # License
